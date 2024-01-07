@@ -21,3 +21,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [66.py](python/66.py) | [Plus One](https://leetcode.com/problems/plus-one/) |    Easy    |
 | [69.py](python/69.py) | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |    Easy    |
 | [67.py](python/67.py) | [Add Binary](https://leetcode.com/problems/add-binary/) |    Easy    |
+| [175.sql](sql/175.sql) | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |    Easy    |
