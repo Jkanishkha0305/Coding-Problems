@@ -19,3 +19,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [35.py](python/35.py) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |    Easy    |
 | [58.py](python/58.py) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |    Easy    |
 | [66.py](python/66.py) | [Plus One](https://leetcode.com/problems/plus-one/) |    Easy    |
+| [69.py](python/69.py) | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |    Easy    |
