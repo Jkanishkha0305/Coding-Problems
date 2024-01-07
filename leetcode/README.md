@@ -22,3 +22,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [69.py](python/69.py) | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |    Easy    |
 | [67.py](python/67.py) | [Add Binary](https://leetcode.com/problems/add-binary/) |    Easy    |
 | [175.sql](sql/175.sql) | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |    Easy    |
+| [181.sql](sql/181.sql) | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) |    Easy    |
