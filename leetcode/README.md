@@ -16,3 +16,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [26.py](python/26.py) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |    Easy    |
 | [27.py](python/27.py) | [Remove Element](https://leetcode.com/problems/remove-element/) |    Easy    |
 | [28.py](python/28.py) | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |    Easy    |
+| [35.py](python/35.py) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |    Easy    |
