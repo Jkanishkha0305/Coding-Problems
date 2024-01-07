@@ -24,3 +24,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [175.sql](sql/175.sql) | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |    Easy    |
 | [181.sql](sql/181.sql) | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) |    Easy    |
 | [182.sql](sql/182.sql) | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) |    Easy    |
+| [183.sql](sql/183.sql) | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) |    Easy    |
