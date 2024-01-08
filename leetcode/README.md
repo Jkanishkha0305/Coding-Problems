@@ -33,3 +33,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [586.sql](sql/586.sql) | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) |    Easy    |
 | [595.sql](sql/595.sql) | [Big Countries](https://leetcode.com/problems/big-countries/) |    Easy    |
 | [596.sql](sql/596.sql) | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) |    Easy    |
+| [607.sql](sql/607.sql) | [Sales Person](https://leetcode.com/problems/sales-person/) |    Easy    |
