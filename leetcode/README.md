@@ -27,3 +27,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [183.sql](sql/183.sql) | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) |    Easy    |
 | [196.sql](sql/196.sql) | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) |    Easy    |
 | [197.sql](sql/197.sql) | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) |    Easy    |
+| [511.sql](sql/511.sql) | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) |    Easy    |
