@@ -29,3 +29,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [197.sql](sql/197.sql) | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) |    Easy    |
 | [511.sql](sql/511.sql) | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) |    Easy    |
 | [577.sql](sql/577.sql) | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) |    Easy    |
+| [584.sql](sql/584.sql) | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) |    Easy    |
