@@ -25,3 +25,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [181.sql](sql/181.sql) | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) |    Easy    |
 | [182.sql](sql/182.sql) | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) |    Easy    |
 | [183.sql](sql/183.sql) | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) |    Easy    |
+| [196.sql](sql/196.sql) | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) |    Easy    |
