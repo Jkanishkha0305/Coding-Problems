@@ -32,3 +32,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [584.sql](sql/584.sql) | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) |    Easy    |
 | [586.sql](sql/586.sql) | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) |    Easy    |
 | [595.sql](sql/595.sql) | [Big Countries](https://leetcode.com/problems/big-countries/) |    Easy    |
+| [596.sql](sql/596.sql) | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) |    Easy    |
