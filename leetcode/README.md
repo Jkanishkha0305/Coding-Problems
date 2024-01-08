@@ -31,3 +31,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [577.sql](sql/577.sql) | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) |    Easy    |
 | [584.sql](sql/584.sql) | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) |    Easy    |
 | [586.sql](sql/586.sql) | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) |    Easy    |
+| [595.sql](sql/595.sql) | [Big Countries](https://leetcode.com/problems/big-countries/) |    Easy    |
