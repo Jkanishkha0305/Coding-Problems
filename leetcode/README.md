@@ -28,3 +28,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [196.sql](sql/196.sql) | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) |    Easy    |
 | [197.sql](sql/197.sql) | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) |    Easy    |
 | [511.sql](sql/511.sql) | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) |    Easy    |
+| [577.sql](sql/577.sql) | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) |    Easy    |
