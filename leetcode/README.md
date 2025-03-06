@@ -1,13 +1,27 @@
 # LeetCode
 
 <p align="center">
-  <img width=550" height="200" src=/assets/LeetCode.png>
+  <img width="550" height="200" src="https://media.licdn.com/dms/image/D4D12AQHJ9CMupIzJIw/article-cover_image-shrink_600_2000/0/1680074638934?e=2147483647&v=beta&t=_-I1hGOZLx187ZWruORVg8fUY-AS_zJ_Jqwcps5bWAw">
 </p>
 
 Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 
-|  Problem Solution  |                 Problem Statement                 | Difficulty |
-| :----------------: | :-----------------------------------------------: | :--------: |
+---
+
+## Interview Preparation
+
+| Problem Solution |                 Problem Statement                  | Difficulty |
+| :--------------: | :-----------------------------------------------: | :--------: |
+| [977.py](python/977.py) | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |    Easy    |
+| [977.py](python/977.py) | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |    Easy    |
+| [977.py](python/977.py) | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |    Easy    |
+
+---
+
+## Python Solutions
+
+| Problem Solution |                  Problem Statement                   | Difficulty |
+| :--------------: | :-------------------------------------------------: | :--------: |
 | [1.py](python/1.py) | [Two Sum](https://leetcode.com/problems/two-sum/) |    Easy    |
 | [9.py](python/9.py) | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |    Easy    |
 | [13.py](python/13.py) | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |    Easy    |
@@ -21,6 +35,13 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [66.py](python/66.py) | [Plus One](https://leetcode.com/problems/plus-one/) |    Easy    |
 | [69.py](python/69.py) | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |    Easy    |
 | [67.py](python/67.py) | [Add Binary](https://leetcode.com/problems/add-binary/) |    Easy    |
+
+---
+
+## SQL Solutions
+
+| Problem Solution |                 Problem Statement                  | Difficulty |
+| :--------------: | :-----------------------------------------------: | :--------: |
 | [175.sql](sql/175.sql) | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |    Easy    |
 | [181.sql](sql/181.sql) | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) |    Easy    |
 | [182.sql](sql/182.sql) | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) |    Easy    |
