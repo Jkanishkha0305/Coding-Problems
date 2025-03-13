@@ -27,6 +27,8 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [3.py](python/3.py) | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |    Medium    |
 | [5.py](python/5.py) | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |    Medium    |
 | [6.py](python/6.py) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |    Medium    |
+| [7.py](python/7.py) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |    Medium    |
+| [8.py](python/8.py) | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |    Medium    |
 | [9.py](python/9.py) | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |    Easy    |
 | [13.py](python/13.py) | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |    Easy    |
 | [20.py](python/20.py) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |    Easy    |
