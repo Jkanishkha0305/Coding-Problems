@@ -33,6 +33,8 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [11.py](python/11.py) | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |    Medium    |
 | [12.py](python/12.py) | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |    Medium    |
 | [13.py](python/13.py) | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |    Easy    |
+| [15.py](python/15.py) | [3Sum](https://leetcode.com/problems/3sum/description/) |    Medium    |
+| [16.py](python/16.py) | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |    Medium    |
 | [20.py](python/20.py) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |    Easy    |
 | [14.py](python/14.py) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |    Easy    |
 | [26.py](python/26.py) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |    Easy    |
