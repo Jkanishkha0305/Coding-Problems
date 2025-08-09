@@ -8,13 +8,13 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 
 ---
 
-## Interview Preparation
+## Interview Preparation Leet 150 
 
 | Problem Solution |                 Problem Statement                  | Difficulty |
 | :--------------: | :-----------------------------------------------: | :--------: |
 | [977.py](python/977.py) | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |    Easy    |
-| [977.py](python/977.py) | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |    Easy    |
-| [977.py](python/977.py) | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |    Easy    |
+| [88.py](python/88.py) | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |    Easy    |
+
 
 ---
 
@@ -33,13 +33,14 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [11.py](python/11.py) | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |    Medium    |
 | [12.py](python/12.py) | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |    Medium    |
 | [13.py](python/13.py) | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |    Easy    |
+| [14.py](python/14.py) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |    Easy    |
 | [15.py](python/15.py) | [3Sum](https://leetcode.com/problems/3sum/description/) |    Medium    |
 | [16.py](python/16.py) | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |    Medium    |
 | [17.py](python/17.py) | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |    Medium    |
 | [18.py](python/18.py) | [4Sum](https://leetcode.com/problems/4sum/description/) |    Medium    |
 | [19.py](python/19.py) | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |    Medium    |
 | [20.py](python/20.py) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |    Easy    |
-| [14.py](python/14.py) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |    Easy    |
+| [22.py](python/22.py) | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |    Medium    |
 | [26.py](python/26.py) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |    Easy    |
 | [27.py](python/27.py) | [Remove Element](https://leetcode.com/problems/remove-element/) |    Easy    |
 | [28.py](python/28.py) | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |    Easy    |
@@ -48,6 +49,9 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 | [66.py](python/66.py) | [Plus One](https://leetcode.com/problems/plus-one/) |    Easy    |
 | [69.py](python/69.py) | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |    Easy    |
 | [67.py](python/67.py) | [Add Binary](https://leetcode.com/problems/add-binary/) |    Easy    |
+| [1768.py](python/1768.py) | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) |    Easy    |
+| [2239.py](python/2239.py) | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/) |    Easy    |
+
 
 ---
 
