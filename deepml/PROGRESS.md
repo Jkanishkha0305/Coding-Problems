@@ -14,4 +14,4 @@ Computer Vision, easy problems first within each block, matching the site's defa
 
 Format: `- [x] #<id> Problem Name (Difficulty) - Category - https://www.deep-ml.com/problems/<id>`
 
-(none yet)
+- [x] #1 Matrix-Vector Dot Product (Easy) - Linear Algebra - https://www.deep-ml.com/problems/1

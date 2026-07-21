@@ -5,8 +5,8 @@ Solved 2/day, committed and pushed each morning. Order follows the official Neet
 Format: `- [ ] Problem Name (Difficulty) - LeetCode link`
 
 ## 1. Arrays & Hashing
-- [ ] Contains Duplicate (Easy) - https://leetcode.com/problems/contains-duplicate/
-- [ ] Valid Anagram (Easy) - https://leetcode.com/problems/valid-anagram/
+- [x] Contains Duplicate (Easy) - https://leetcode.com/problems/contains-duplicate/
+- [x] Valid Anagram (Easy) - https://leetcode.com/problems/valid-anagram/
 - [ ] Two Sum (Easy) - https://leetcode.com/problems/two-sum/
 - [ ] Group Anagrams (Medium) - https://leetcode.com/problems/group-anagrams/
 - [ ] Top K Frequent Elements (Medium) - https://leetcode.com/problems/top-k-frequent-elements/
